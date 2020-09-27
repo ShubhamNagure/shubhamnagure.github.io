@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: light
 
 plugins:
@@ -27,11 +27,10 @@ projects:
     forks: true
     projects:
     # - repo-name
-
- social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-   facebook: shubham.nagure
+  facebook: shubham.nagure
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
