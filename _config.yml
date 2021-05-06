@@ -27,6 +27,7 @@ projects:
     forks: true
     projects:
     # - repo-name
+    https://github.com/ShubhamNagure/speech-recognition-based-task-automation-system/tree/master
 social_media:
   # behance: your_username
   # dribbble: your_username
